@@ -17,7 +17,8 @@ The most recent version of Python I have installed is 3.13.9, so if it doesn't w
 
 I use it for Smite 2 afk farming. You could probably use it for similar things, like automating Nexus Mod downloads.
 
-###Note: You will have to manually expand the window to see every option.
+### Note: You will have to manually expand the window to see every option.
+
 <img width="918" height="1211" alt="Capture" src="https://github.com/user-attachments/assets/c111210f-328f-49d1-b5cb-9a90a936b089" />
 
 #Features
