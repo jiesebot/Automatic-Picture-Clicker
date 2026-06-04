@@ -26,7 +26,7 @@ I use it for Smite 2 afk farming. You could probably use it for similar things, 
 
 Allows multiple pictures along with checkboxes to enable it to find the ones you want to click, while keeping the others stored for later (so you can upload them all at the same time).
 
-##Settings
+## Settings
 
 Match Threshold: How similar an image has to be to an enabled picture in order for the software to attempt to click it. I personally use 0.75. Use something like 0.90 or 0.95 if it is clicking the wrong things. Use something like 0.75 or 0.80 if it is missing images that are clearly visible.
 
